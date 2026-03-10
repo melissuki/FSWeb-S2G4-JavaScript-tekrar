@@ -141,7 +141,10 @@ siralisayilar = [...besyuzdenkucuksayilar].sort((a,b) => a - b);
 
 // 3f çözümü
 
-/* kodlar buraya */
+const frekanslar = {};
+sayilar.forEach((sayi) => {
+  if(frekanslar[sayi])
+})
 
 /*  Bu satırın aşağısındaki kodları lütfen değiştirmeyin  */
 
